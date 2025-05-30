@@ -16,6 +16,6 @@ going to look and how the corresponding weather details and location details loo
 
 3. The index.html file was used to showcase the weather app title. The index.css styled the way it looked. 
 
-4. The weather.js file showcases the tem, condition, and windspeed. 
+4. The weather.js file showcases the term, condition, and windspeed. 
 
 
